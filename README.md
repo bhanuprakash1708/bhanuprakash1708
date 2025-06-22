@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
+<h1> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page!<br> I'm <b>Bhanu Prakash</b>, a Full-Stack Developer and CSE-IoT student from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>India</b>.</p>
 
@@ -36,18 +36,32 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/bhanuprakash1708/quick-byte"><b>Quick Byte – Automated Canteen</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/bhanuprakash1708/quick-byte?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/bhanuprakash1708/quick-byte?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/bhanuprakash1708/quick-byte?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/bhanuprakash1708/quick-byte?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/bhanuprakash1708/stationary"><b>Stationary System</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/bhanuprakash1708/stationary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/bhanuprakash1708/stationary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/bhanuprakash1708/stationary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/bhanuprakash1708/stationary?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/bhanuprakash1708/akalavya"><b>AKALAVYA – Mentor Connect Platform</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/bhanuprakash1708/akalavya?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/bhanuprakash1708/akalavya?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/bhanuprakash1708/akalavya?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/bhanuprakash1708/akalavya?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/bhanuprakash1708/Mentor-Connect"><b> Mentor Connect Platform</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/bhanuprakash1708/Mentor-Connect?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/bhanuprakash1708/Mentor-Connect?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/bhanuprakash1708/Mentor-Connect?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/bhanuprakash1708/Mentor-Connect?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bhanuprakash1708/grocery_managementt"><b>Grocery Management</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/bhanuprakash1708/grocery_management?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/bhanuprakash1708/grocery_management?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/bhanuprakash1708/grocery_management?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/bhanuprakash1708/grocery_management?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/bhanuprakash1708/Advanced-Network-Scanner"><b>Advanced Network Scanner</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/bhanuprakash1708/Advanced-Network-Scanner?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/bhanuprakash1708/Advanced-Network-Scanner?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/bhanuprakash1708/Advanced-Network-Scanner?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="PRs" src="https://img.shields.io/github/issues-pr/bhanuprakash1708/Advanced-Network-Scanner?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
