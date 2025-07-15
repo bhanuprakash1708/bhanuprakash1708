@@ -22,12 +22,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
-
----
-
 ## 📫 Coding Profiles:
 <p>
   <a href="https://codeforces.com/profile/bhanu.prakash1708"><img alt="GitHub" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
@@ -35,13 +29,17 @@
   <a href="https://www.codechef.com/users/bhanu1708"><img alt="Email" src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 </p>
 
----
-
 ## 📫 Where to find me:
 <p>
   <a href="https://www.linkedin.com/in/bhanu-prakash-kanakamedala/"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:bhanuprakash1708@gmail.com"><img alt="Email" src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/bhanuprakash1708"><img alt="GitHub" src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 ---
