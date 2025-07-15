@@ -28,6 +28,15 @@
 
 ---
 
+## 📫 Coding Profiles:
+<p>
+  <a href="https://codeforces.com/profile/bhanu.prakash1708"><img alt="GitHub" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/bhanu2005/"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://www.codechef.com/users/bhanu1708"><img alt="Email" src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+</p>
+
+---
+
 ## 📫 Where to find me:
 <p>
   <a href="https://www.linkedin.com/in/bhanu-prakash-kanakamedala/"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
